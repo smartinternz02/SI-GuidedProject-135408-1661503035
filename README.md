@@ -1,3 +1,5 @@
+**Credit Card Approval Prediction Using Machine Learning**
+
 In the modern banking industry, handling the high volume of credit card applications efficiently is crucial. Traditional manual review processes are not only time-consuming but also prone to errors. To address this challenge, I developed an automatic credit card approval predictor using advanced machine learning techniques.
 
 Project Highlights:
